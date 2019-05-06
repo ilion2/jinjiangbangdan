@@ -1,2 +1,2 @@
-# jinjiangbangdan
+# 晋江榜单
 一周收藏记录
